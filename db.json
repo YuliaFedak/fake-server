@@ -1,17 +1,17 @@
 [
   {
-    id: 1,
-    title: "Test 1",
-    description: "test1..."
+    "id": 1,
+    "title": "Test 1",
+    "description": "test1..."
   },
   {
-    id: 2,
-    title: "Test 2",
-    description: "test2..."
+    "id": 2,
+    "title": "Test 2",
+    "description": "test2..."
   },
   {
-    id: 3,
-    title: "Test 3",
-    description: "test3..."
+    "id": 3,
+    "title": "Test 3",
+    "description": "test3..."
   }
 ]
